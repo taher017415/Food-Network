@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#header{
+    display: flex;
+}
+.header-part{
+    width: 70%;
+    padding-left: 5%;
+}
+.text-color{
+    color: blue;
+}
+.text-colours{
+    color: rgb(0, 183, 255);
+}
+.link-color{
+    padding: 10px 40px;
+    text-decoration: none;
+    background-image: linear-gradient(blue, cyan);
+    border-radius: 10px;
+    color: white;
+}
+h1{
+    font-size: 50px;
+}
+.header-part img{
+    width: 100%;
+}
