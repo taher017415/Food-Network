@@ -3,6 +3,7 @@ body{
 }
 #header{
     display: flex;
+    margin-bottom: 5%;
 }
 .header-part{
     width: 70%;
@@ -27,3 +28,26 @@ h1{
 .header-part img{
     width: 100%;
 }
+#dream-area{
+    display: flex;
+    background-image: url(images/images/shapes/Frame\ 57.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    text-justify: auto;
+    t
+}
+.dream-area-part{
+    width: 50%;
+    padding-right: 5%;
+}
+.dream-area-part img{
+   width: 74%;
+}
+#My-Recipies-area{
+    text-align: center;
+}
+#recipies{
+    background-image: url(images/images/shapes/Untitled-);
+    text-align: center;
+
